@@ -1,0 +1,444 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ymdnt/global//global/global}
+    \entry{Silica:IJPAM2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c27d3b8447931270ff770595e0752a60}{%
+           family={\textbf{Silica\bibnamedelimb Kole}},
+           familyi={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=13bc39809371abf776bf628c1d91e64f}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Saad},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0261a9bc73d9b7550237a90be295f54}{%
+           family={Arya},
+           familyi={A\bibinitperiod},
+           given={Manan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=306a89bfae3f9670007479f209988cca}{%
+           family={Bhardwaj},
+           familyi={B\bibinitperiod},
+           given={Ujjwal},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Publications Ltd.}%
+      }
+      \strng{namehash}{dacc683447a1cd3619ee6fb9ce550fde}
+      \strng{fullhash}{b8e8c838b214f8c8c12de8457f0f24a7}
+      \strng{bibnamehash}{b8e8c838b214f8c8c12de8457f0f24a7}
+      \strng{authorbibnamehash}{b8e8c838b214f8c8c12de8457f0f24a7}
+      \strng{authornamehash}{dacc683447a1cd3619ee6fb9ce550fde}
+      \strng{authorfullhash}{b8e8c838b214f8c8c12de8457f0f24a7}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1314-3395}
+      \field{journaltitle}{International Journal of Pure and Applied Mathematics}
+      \field{number}{24}
+      \field{title}{Extraction and {C}lassification of {U}ser {I}nterface {C}omponents from an {I}mage}
+      \field{volume}{118}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{Special Issue}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://acadpubl.eu/hub/2018-118-24/4/694.pdf
+      \endverb
+      \verb{url}
+      \verb https://acadpubl.eu/hub/2018-118-24/4/694.pdf
+      \endverb
+      \keyw{User Interface; Component Detetection; Machine Learning; Computer Vision}
+    \endentry
+    \entry{Silica:IJCA2017}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=c27d3b8447931270ff770595e0752a60}{%
+           family={\textbf{Silica\bibnamedelimb Kole}},
+           familyi={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=cc424e569bb093ce227dd8b99b950605}{%
+           family={Goel},
+           familyi={G\bibinitperiod},
+           given={Vishesh},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=140c6531eb81ce890e4cebc1b17566f8}{%
+           family={Singhal},
+           familyi={S\bibinitperiod},
+           given={Sahil},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=359182cc851c7df4e667c0cd46bd2c0e}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Tarun},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e6bc3b91b31a0dd1bcaf11c67384e1bf}
+      \strng{fullhash}{fa9a497c37b9c8004deb418b4d7c3b9c}
+      \strng{bibnamehash}{fa9a497c37b9c8004deb418b4d7c3b9c}
+      \strng{authorbibnamehash}{fa9a497c37b9c8004deb418b4d7c3b9c}
+      \strng{authornamehash}{e6bc3b91b31a0dd1bcaf11c67384e1bf}
+      \strng{authorfullhash}{fa9a497c37b9c8004deb418b4d7c3b9c}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0975-8887}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{number}{8}
+      \field{title}{Specific {C}olor {D}etection in Images using {RGB} {M}odelling in {MATLAB}}
+      \field{volume}{161}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{38\bibrangedash 42}
+      \range{pages}{5}
+      \verb{urlraw}
+      \verb https://www.ijcaonline.org/archives/volume161/number8/goel-2017-ijca-913254.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ijcaonline.org/archives/volume161/number8/goel-2017-ijca-913254.pdf
+      \endverb
+      \keyw{MATLAB; Image Processing Toolbox; Color Detection; Image Segmentation}
+    \endentry
+    \entry{Silica:CESER2017}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=c27d3b8447931270ff770595e0752a60}{%
+           family={\textbf{Silica\bibnamedelimb Kole}},
+           familyi={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{un=1,uniquepart=given,hash=29b1dd5d6617cebcf8ef70850e6dfb3e}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Rishabh},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=7ec0fd0e78c8ad2c779ad5330fc354a0}{%
+           family={Guru},
+           familyi={G\bibinitperiod},
+           given={Jyoti},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9157c7c1d385fca2b980d63eefa03df0}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Tilak},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {CESER Publications}%
+      }
+      \strng{namehash}{f6ff9c8591537e2c024c7510371d25b7}
+      \strng{fullhash}{dfa70a14c73f84967bb257ad7d0e5bd5}
+      \strng{bibnamehash}{dfa70a14c73f84967bb257ad7d0e5bd5}
+      \strng{authorbibnamehash}{dfa70a14c73f84967bb257ad7d0e5bd5}
+      \strng{authornamehash}{f6ff9c8591537e2c024c7510371d25b7}
+      \strng{authorfullhash}{dfa70a14c73f84967bb257ad7d0e5bd5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2455-6432}
+      \field{journaltitle}{International Journal of Engineering and Future Technology}
+      \field{number}{3}
+      \field{title}{RGB Based Image Grouping using The Method of Color Thresholding in MATLAB}
+      \field{volume}{14}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{78\bibrangedash 82}
+      \range{pages}{5}
+      \verb{urlraw}
+      \verb https://www.ceser.in/ceserp/index.php/IJEFT/article/view/4874
+      \endverb
+      \verb{url}
+      \verb https://www.ceser.in/ceserp/index.php/IJEFT/article/view/4874
+      \endverb
+    \endentry
+    \entry{Silica:IJCA2015}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=c27d3b8447931270ff770595e0752a60}{%
+           family={\textbf{Silica\bibnamedelimb Kole}},
+           familyi={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b675c6ef3d7d70420e05eb9a31c6bc46}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={Charvi},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53773622de0f1c6e6326dd226e7a7b3a}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Tripti},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1b2abf53b4f3a5c91637d5819be5f0c}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Sanya},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6480ce5c30e7c7a3ffc11eabf3f90e9c}
+      \strng{fullhash}{8a09a3febc64cc7cb5a4f9dfa7eb7619}
+      \strng{bibnamehash}{8a09a3febc64cc7cb5a4f9dfa7eb7619}
+      \strng{authorbibnamehash}{8a09a3febc64cc7cb5a4f9dfa7eb7619}
+      \strng{authornamehash}{6480ce5c30e7c7a3ffc11eabf3f90e9c}
+      \strng{authorfullhash}{8a09a3febc64cc7cb5a4f9dfa7eb7619}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0975-8887}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{number}{4}
+      \field{title}{{SURF} and {RANSAC}: {A} {C}onglomerative approach to {O}bject {D}etection}
+      \field{volume}{109}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{07\bibrangedash 09}
+      \range{pages}{3}
+      \verb{urlraw}
+      \verb https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.695.3525&rep=rep1&type=pdf
+      \endverb
+      \verb{url}
+      \verb https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.695.3525&rep=rep1&type=pdf
+      \endverb
+      \keyw{SURF; RANSAC; Object Detection; Computer Vision}
+    \endentry
+    \entry{Silica:IJIACS2015}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=c27d3b8447931270ff770595e0752a60}{%
+           family={\textbf{Silica\bibnamedelimb Kole}},
+           familyi={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{un=1,uniquepart=given,hash=c4665f76db9bd49e7d08a82359ed197b}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=4d8a0af271a52df31dd45d0bd83a3f43}{%
+           family={Bhatia},
+           familyi={B\bibinitperiod},
+           given={Pranav},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7197454b466ab54a6287413b36fce09}{%
+           family={Goel},
+           familyi={G\bibinitperiod},
+           given={Anshul},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Science}%
+      }
+      \strng{namehash}{3004e045333dc10fa4174c2aaaee0ec0}
+      \strng{fullhash}{89d1a4c1d8b1d3fc75000bc5e4a76816}
+      \strng{bibnamehash}{89d1a4c1d8b1d3fc75000bc5e4a76816}
+      \strng{authorbibnamehash}{89d1a4c1d8b1d3fc75000bc5e4a76816}
+      \strng{authornamehash}{3004e045333dc10fa4174c2aaaee0ec0}
+      \strng{authorfullhash}{89d1a4c1d8b1d3fc75000bc5e4a76816}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2347-8616}
+      \field{journaltitle}{International Journal of Innovations & Advancement in Computer Science}
+      \field{number}{Special Issue}
+      \field{title}{Implementation and {C}omparison of {D}ecision {T}ree Based {A}lgorithms}
+      \field{volume}{4}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{190\bibrangedash 196}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb https://www.academicscience.co.in/admin/resources/project/paper/f201505161431763874.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.academicscience.co.in/admin/resources/project/paper/f201505161431763874.pdf
+      \endverb
+      \keyw{ID3; C4.5; CART; Regression; Information Gain; GINI Index; Gain Ratio}
+    \endentry
+    \entry{Silica:IJIRCCE2014}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c27d3b8447931270ff770595e0752a60}{%
+           family={\textbf{Silica\bibnamedelimb Kole}},
+           familyi={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c4665f76db9bd49e7d08a82359ed197b}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d8a0af271a52df31dd45d0bd83a3f43}{%
+           family={Bhatia},
+           familyi={B\bibinitperiod},
+           given={Pranav},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7197454b466ab54a6287413b36fce09}{%
+           family={Goel},
+           familyi={G\bibinitperiod},
+           given={Anshul},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dacc683447a1cd3619ee6fb9ce550fde}
+      \strng{fullhash}{89d1a4c1d8b1d3fc75000bc5e4a76816}
+      \strng{bibnamehash}{89d1a4c1d8b1d3fc75000bc5e4a76816}
+      \strng{authorbibnamehash}{89d1a4c1d8b1d3fc75000bc5e4a76816}
+      \strng{authornamehash}{dacc683447a1cd3619ee6fb9ce550fde}
+      \strng{authorfullhash}{89d1a4c1d8b1d3fc75000bc5e4a76816}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2320-9801}
+      \field{journaltitle}{International Journal of Innovative Research in Computer and Communication Engineering}
+      \field{number}{11}
+      \field{title}{{I}mplementing {D}ynamic {A}uthority Based {S}earch Using {B}inrank {A}lgorithm}
+      \field{volume}{2}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{6967\bibrangedash 6970}
+      \range{pages}{4}
+      \verb{urlraw}
+      \verb httpS://www.ijircce.com/upload/2014/november/37F_Implementing.pdf
+      \endverb
+      \verb{url}
+      \verb httpS://www.ijircce.com/upload/2014/november/37F_Implementing.pdf
+      \endverb
+      \keyw{Approximation algorithms; Material Sub-graphs MSG; Online Keyword search}
+    \endentry
+    \entry{Silica:IJSER2013}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c27d3b8447931270ff770595e0752a60}{%
+           family={\textbf{Silica\bibnamedelimb Kole}},
+           familyi={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=650e022c22c6de2813a9ff66e0b0d81d}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Deepak\bibnamedelima Kumar},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5caa404942ca9801bcf086d37ad8e92}{%
+           family={Goel},
+           familyi={G\bibinitperiod},
+           given={Pulkit},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dacc683447a1cd3619ee6fb9ce550fde}
+      \strng{fullhash}{247df03d3ecd3a3e2c2cb88f66a129d3}
+      \strng{bibnamehash}{247df03d3ecd3a3e2c2cb88f66a129d3}
+      \strng{authorbibnamehash}{247df03d3ecd3a3e2c2cb88f66a129d3}
+      \strng{authornamehash}{dacc683447a1cd3619ee6fb9ce550fde}
+      \strng{authorfullhash}{247df03d3ecd3a3e2c2cb88f66a129d3}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2229-5518}
+      \field{journaltitle}{International Journal of Scientific & Engineering Research}
+      \field{number}{7}
+      \field{title}{Simulation of {DDoS} {A}ttack & Real Time {P}revention {A}lgorithm}
+      \field{volume}{4}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{1536\bibrangedash 1538}
+      \range{pages}{3}
+      \verb{urlraw}
+      \verb https://www.ijser.org/onlineResearchPaperViewer.aspx?Simulation-of-DDoS-Attack-Real-Time-Prevention-Algorithm.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ijser.org/onlineResearchPaperViewer.aspx?Simulation-of-DDoS-Attack-Real-Time-Prevention-Algorithm.pdf
+      \endverb
+      \keyw{DDos; Website Attack; IP Spoofing}
+    \endentry
+    \entry{Silica:MTech2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c27d3b8447931270ff770595e0752a60}{%
+           family={\textbf{Silica\bibnamedelimb Kole}},
+           familyi={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{c27d3b8447931270ff770595e0752a60}
+      \strng{fullhash}{c27d3b8447931270ff770595e0752a60}
+      \strng{bibnamehash}{c27d3b8447931270ff770595e0752a60}
+      \strng{authorbibnamehash}{c27d3b8447931270ff770595e0752a60}
+      \strng{authornamehash}{c27d3b8447931270ff770595e0752a60}
+      \strng{authorfullhash}{c27d3b8447931270ff770595e0752a60}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2229-5518}
+      \field{journaltitle}{International Journal of Scientific & Engineering Research}
+      \field{number}{6}
+      \field{title}{{G}lobal {C}atastrophic {A}lert {S}ystem}
+      \field{volume}{3}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{01\bibrangedash 03}
+      \range{pages}{3}
+      \verb{urlraw}
+      \verb https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.302.6361&rep=rep1&type=pdf
+      \endverb
+      \verb{url}
+      \verb https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.302.6361&rep=rep1&type=pdf
+      \endverb
+      \keyw{Accumulated Potential Energy; Earthquakes predictions; Heterogeneous sensors; Sensors; Simulation; Wireless Sensor Networks}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

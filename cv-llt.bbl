@@ -174,7 +174,7 @@
       \field{issn}{2455-6432}
       \field{journaltitle}{International Journal of Engineering and Future Technology}
       \field{number}{3}
-      \field{title}{RGB Based Image Grouping using The Method of Color Thresholding in MATLAB}
+      \field{title}{{RGB} Based Image Grouping using The Method of Color Thresholding in MATLAB}
       \field{volume}{14}
       \field{year}{2017}
       \true{nocite}
@@ -282,7 +282,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2347-8616}
-      \field{journaltitle}{International Journal of Innovations & Advancement in Computer Science}
+      \field{journaltitle}{International Journal of Innovations and Advancement in Computer Science}
       \field{number}{Special Issue}
       \field{title}{Implementation and {C}omparison of {D}ecision {T}ree Based {A}lgorithms}
       \field{volume}{4}
@@ -386,9 +386,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2229-5518}
-      \field{journaltitle}{International Journal of Scientific & Engineering Research}
+      \field{journaltitle}{International Journal of Scientific and Engineering Research}
       \field{number}{7}
-      \field{title}{Simulation of {DDoS} {A}ttack & Real Time {P}revention {A}lgorithm}
+      \field{title}{Simulation of {DDoS} {A}ttack and Real Time {P}revention {A}lgorithm}
       \field{volume}{4}
       \field{year}{2013}
       \true{nocite}
@@ -422,7 +422,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2229-5518}
-      \field{journaltitle}{International Journal of Scientific & Engineering Research}
+      \field{journaltitle}{International Journal of Scientific and Engineering Research}
       \field{number}{6}
       \field{title}{{G}lobal {C}atastrophic {A}lert {S}ystem}
       \field{volume}{3}

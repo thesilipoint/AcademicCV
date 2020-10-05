@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.3)  5 OCT 2020 06:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.3)  5 OCT 2020 06:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1129,13 +1129,13 @@ Package logreq Info: Writing requests to 'cv-llt.run.xml'.
 Here is how much of TeX's memory you used:
  33187 strings out of 480875
  675255 string characters out of 5907566
- 1444889 words of memory out of 5000000
+ 1445889 words of memory out of 5000000
  48101 multiletter control sequences out of 15000+600000
  795715 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,107p,1193b,4930s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cochineal/coch_3q3crd.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cochineal/coch_kbpxlj.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cabin/cbn_i3ioen.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/impallari/cabin/Cabin-Bold.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /Users/silica/Documents/GitHub/AcademicCV/cv-llt.pdf (3 pages, 225129 bytes).
+Output written on /Users/silica/Documents/GitHub/AcademicCV/cv-llt.pdf (3 pages, 225121 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.3)  5 OCT 2020 20:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.3)  28 OCT 2020 00:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/silica/Documents/GitHub/AcademicCV/cv-llt.tex
-(/Users/silica/Documents/GitHub/AcademicCV/cv-llt.tex
+**/Users/silica/Documents/GitHub/AcademicCV/silica-cv.tex
+(/Users/silica/Documents/GitHub/AcademicCV/silica-cv.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-09-24> (/usr/local/texlive/2020/texmf-dist/tex/latex/curve/curve.cls
 Document Class: curve 2010/12/14 v1.16 Curriculum Vitae class for LaTeX2e
@@ -853,8 +853,8 @@ File: T1Cochineal-OsF.fd 2016/01/19 (msharpe) Font definitions for T1/Cochineal-
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 76.
- (/Users/silica/Documents/GitHub/AcademicCV/cv-llt.aux)
-\openout1 = `cv-llt.aux'.
+ (/Users/silica/Documents/GitHub/AcademicCV/silica-cv.aux)
+\openout1 = `silica-cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
@@ -951,11 +951,11 @@ File: english.lbx 2020/08/23 v3.15a biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `cv-llt.bcf'.
+\openout5 = `silica-cv.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'cv-llt.bbl' found.
- (/Users/silica/Documents/GitHub/AcademicCV/cv-llt.bbl)
+Package biblatex Info: ... file 'silica-cv.bbl' found.
+ (/Users/silica/Documents/GitHub/AcademicCV/silica-cv.bbl)
 Package biblatex Info: Reference section=0 on input line 76.
 Package biblatex Info: Reference segment=0 on input line 76.
 \AtBeginShipoutBox=\box84
@@ -972,9 +972,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 76.
 LaTeX Info: Redefining \pageref on input line 76.
 LaTeX Info: Redefining \nameref on input line 76.
- (/Users/silica/Documents/GitHub/AcademicCV/cv-llt.out) (/Users/silica/Documents/GitHub/AcademicCV/cv-llt.out)
+ (/Users/silica/Documents/GitHub/AcademicCV/silica-cv.out) (/Users/silica/Documents/GitHub/AcademicCV/silica-cv.out)
 \@outlinefile=\write6
-\openout6 = `cv-llt.out'.
+\openout6 = `silica-cv.out'.
 
 \c@mv@tabular=\count453
 \c@mv@boldtabular=\count454
@@ -1065,25 +1065,25 @@ LaTeX Warning: Empty bibliography on input line 14.
 ) (/Users/silica/Documents/GitHub/AcademicCV/skills.tex) (/Users/silica/Documents/GitHub/AcademicCV/skills.tex) (/Users/silica/Documents/GitHub/AcademicCV/skills.tex) (/Users/silica/Documents/GitHub/AcademicCV/skills.tex) (/Users/silica/Documents/GitHub/AcademicCV/misc.tex) (/Users/silica/Documents/GitHub/AcademicCV/misc.tex) (/Users/silica/Documents/GitHub/AcademicCV/misc.tex) (/Users/silica/Documents/GitHub/AcademicCV/misc.tex [2]) (/Users/silica/Documents/GitHub/AcademicCV/Personal Information.tex) (/Users/silica/Documents/GitHub/AcademicCV/Personal Information.tex) (/Users/silica/Documents/GitHub/AcademicCV/Personal Information.tex) (/Users/silica/Documents/GitHub/AcademicCV/Personal Information.tex) (/Users/silica/Documents/GitHub/AcademicCV/referee.tex) (/Users/silica/Documents/GitHub/AcademicCV/referee.tex) (/Users/silica/Documents/GitHub/AcademicCV/referee.tex) (/Users/silica/Documents/GitHub/AcademicCV/referee.tex) [3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
- (/Users/silica/Documents/GitHub/AcademicCV/cv-llt.aux)
+ (/Users/silica/Documents/GitHub/AcademicCV/silica-cv.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
-Package rerunfilecheck Info: File `cv-llt.out' has not changed.
+Package rerunfilecheck Info: File `silica-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package logreq Info: Writing requests to 'cv-llt.run.xml'.
-\openout1 = `cv-llt.run.xml'.
+Package logreq Info: Writing requests to 'silica-cv.run.xml'.
+\openout1 = `silica-cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  33195 strings out of 480875
- 675335 string characters out of 5907566
- 1448256 words of memory out of 5000000
+ 675395 string characters out of 5907566
+ 1448265 words of memory out of 5000000
  48109 multiletter control sequences out of 15000+600000
  795715 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,107p,1193b,4930s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,11n,107p,1196b,4930s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cochineal/coch_3q3crd.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cochineal/coch_kbpxlj.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cabin/cbn_i3ioen.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/impallari/cabin/Cabin-Bold.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /Users/silica/Documents/GitHub/AcademicCV/cv-llt.pdf (3 pages, 227153 bytes).
+Output written on /Users/silica/Documents/GitHub/AcademicCV/silica-cv.pdf (3 pages, 227153 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream

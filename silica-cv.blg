@@ -1,15 +1,15 @@
 [0] Config.pm:312> INFO - This is Biber 2.15
-[0] Config.pm:315> INFO - Logfile is 'cv-llt.blg'
-[114] biber-darwin:330> INFO - === Mon Oct  5, 2020, 20:16:51
-[134] Biber.pm:415> INFO - Reading 'cv-llt.bcf'
-[306] Biber.pm:949> INFO - Using all citekeys in bib section 0
-[326] Biber.pm:4334> INFO - Processing section 0
-[339] Biber.pm:4523> INFO - Looking for bibtex format file 'own-bib.bib' for section 0
-[341] bibtex.pm:1682> INFO - LaTeX decoding ...
-[363] bibtex.pm:1494> INFO - Found BibTeX data source 'own-bib.bib'
-[500] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[500] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[500] Biber.pm:4162> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[500] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
-[520] bbl.pm:651> INFO - Writing 'cv-llt.bbl' with encoding 'UTF-8'
-[530] bbl.pm:754> INFO - Output to cv-llt.bbl
+[0] Config.pm:315> INFO - Logfile is 'silica-cv.blg'
+[110] biber-darwin:330> INFO - === Wed Oct 28, 2020, 00:01:19
+[133] Biber.pm:415> INFO - Reading 'silica-cv.bcf'
+[304] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[325] Biber.pm:4334> INFO - Processing section 0
+[340] Biber.pm:4523> INFO - Looking for bibtex format file 'own-bib.bib' for section 0
+[344] bibtex.pm:1682> INFO - LaTeX decoding ...
+[371] bibtex.pm:1494> INFO - Found BibTeX data source 'own-bib.bib'
+[522] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[522] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[523] Biber.pm:4162> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[523] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[542] bbl.pm:651> INFO - Writing 'silica-cv.bbl' with encoding 'UTF-8'
+[555] bbl.pm:754> INFO - Output to silica-cv.bbl

@@ -19,6 +19,49 @@
 
 \refsection{0}
   \datalist[entry]{ymdnt/global//global/global}
+    \entry{Silica:IC2E32023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c27d3b8447931270ff770595e0752a60}{%
+           family={\textbf{Silica\bibnamedelimb Kole}},
+           familyi={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=9a997a30e32123f5755eff46f839e64f}{%
+           family={Kuppili},
+           familyi={K\bibinitperiod},
+           given={Venkatabareshbabu},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{91c88d9c90cb2ef1bbd4dccf599a4016}
+      \strng{fullhash}{91c88d9c90cb2ef1bbd4dccf599a4016}
+      \strng{bibnamehash}{91c88d9c90cb2ef1bbd4dccf599a4016}
+      \strng{authorbibnamehash}{91c88d9c90cb2ef1bbd4dccf599a4016}
+      \strng{authornamehash}{91c88d9c90cb2ef1bbd4dccf599a4016}
+      \strng{authorfullhash}{91c88d9c90cb2ef1bbd4dccf599a4016}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0000-0000}
+      \field{journaltitle}{International Conference on Computer, Electronics and Electrical Engineering and Their Applications}
+      \field{number}{0}
+      \field{title}{{D}etection of {C}anine {P}arvovirus using {ELM} and {S}upport {V}ector {M}achine {A}lgorithm from {B}lood {T}ests}
+      \field{volume}{0}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{0--0}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://nituk.ac.in/ic2e32023/
+      \endverb
+      \verb{url}
+      \verb https://nituk.ac.in/ic2e32023/
+      \endverb
+      \keyw{Canine Parvorirus; Semi-supervised SVM; Pet Disease Detection}
+      \warn{\item Range field 'pages' in entry 'Silica:IC2E32023' is malformed, falling back to literal}
+    \endentry
     \entry{Silica:IJPAM2018}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c27d3b8447931270ff770595e0752a60}{%

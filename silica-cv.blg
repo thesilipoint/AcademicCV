@@ -1,15 +1,17 @@
 [0] Config.pm:312> INFO - This is Biber 2.15
 [0] Config.pm:315> INFO - Logfile is 'silica-cv.blg'
-[110] biber-darwin:330> INFO - === Wed Oct 28, 2020, 00:01:19
-[133] Biber.pm:415> INFO - Reading 'silica-cv.bcf'
-[304] Biber.pm:949> INFO - Using all citekeys in bib section 0
-[325] Biber.pm:4334> INFO - Processing section 0
-[340] Biber.pm:4523> INFO - Looking for bibtex format file 'own-bib.bib' for section 0
-[344] bibtex.pm:1682> INFO - LaTeX decoding ...
-[371] bibtex.pm:1494> INFO - Found BibTeX data source 'own-bib.bib'
-[522] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[522] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[523] Biber.pm:4162> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[523] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
-[542] bbl.pm:651> INFO - Writing 'silica-cv.bbl' with encoding 'UTF-8'
-[555] bbl.pm:754> INFO - Output to silica-cv.bbl
+[143] biber-darwin:330> INFO - === Sun Jun 18, 2023, 17:54:33
+[186] Biber.pm:415> INFO - Reading 'silica-cv.bcf'
+[445] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[472] Biber.pm:4334> INFO - Processing section 0
+[496] Biber.pm:4523> INFO - Looking for bibtex format file 'own-bib.bib' for section 0
+[499] bibtex.pm:1682> INFO - LaTeX decoding ...
+[529] bibtex.pm:1494> INFO - Found BibTeX data source 'own-bib.bib'
+[595] Utils.pm:395> WARN - Range field 'pages' in entry 'Silica:IC2E32023' is malformed, falling back to literal
+[729] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[729] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[729] Biber.pm:4162> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[729] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[755] bbl.pm:651> INFO - Writing 'silica-cv.bbl' with encoding 'UTF-8'
+[769] bbl.pm:754> INFO - Output to silica-cv.bbl
+[770] Biber.pm:128> INFO - WARNINGS: 1
